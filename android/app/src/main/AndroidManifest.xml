@@ -1,13 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.project_bus">
    <application
-        android:label="MyBus"
+        android:label="EzBus"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
         <!-- Add your Google Maps API key here -->
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyBGmD3F95N7Uo28CJclx6zUl5cFSWQu8zo"/>
+               android:value="AIzaSyCaNn8VMJ-coDHIdxia9honNO21PZN39ls"/>
 
         <activity
             android:name=".MainActivity"
