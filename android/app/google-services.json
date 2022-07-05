@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "67637962913",
+    "firebase_url": "https://nimble-button-351312-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nimble-button-351312",
+    "storage_bucket": "nimble-button-351312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67637962913:android:94fc776636d12f33be68e0",
+        "android_client_info": {
+          "package_name": "com.example.project_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67637962913-q8v3dvintj9fks8j6qtmquna0pjn3f1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmYLIlGVJuDpUMJOWkZmduew0F2Iprwzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67637962913-q8v3dvintj9fks8j6qtmquna0pjn3f1b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "67637962913-e0ph8ta8g9mnusi9019bmm5fuq8lv51c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectBus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
